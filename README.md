@@ -32,9 +32,9 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 ## Results
 | Metric | Score |
 | :--- | :--- |
-| **Accuracy** | **[99.5%]** |
-| **Precision** | [99.3%] |
-| **Recall** | [99.4%] |
-| **F1-Score** | [99.4%] |
+| **Accuracy** | **99.5%** |
+| **Precision** | 99.3% |
+| **Recall** | 99.4% |
+| **F1-Score** | 99.4% |
 
-*Confusion Matrix:* ![Confusion Matrix]([<img width="823" height="684" alt="Screenshot 2025-12-01 024905" src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" />])
+*Confusion Matrix:* ![Confusion Matrix <img width="823" height="684" alt="Screenshot 2025-12-01 024905" src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" />])
