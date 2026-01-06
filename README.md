@@ -43,7 +43,7 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
   <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="500" title="Confusion Matrix">
 </p>
 
-## 💻 How to Run
+## How to Run
 1.  **Clone the repository**
    ```bash
    git clone [https://github.com/Quixowo/AI-Human-Images-Classifier.git](https://github.com/Quixowo/AI-Human-Images-Classifier.git)
