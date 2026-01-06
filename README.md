@@ -29,14 +29,6 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 * **Split:** [e.g., 50% Real / 50% AI-Generated]
 * **Resolution:** Resized to [e.g., 224x224] for MobileNetV3 input.
 
-## Results
-| Metric | Score |
-| :--- | :--- |
-| **Accuracy** | **99.5%** |
-| **Precision** | 99.3% |
-| **Recall** | 99.4% |
-| **F1-Score** | 99.4% |
-
 ## 📈 Results
 The model achieves exceptional performance, making it suitable for real-world screening applications.
 
