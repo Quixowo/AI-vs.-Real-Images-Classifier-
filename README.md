@@ -37,7 +37,39 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 | **Recall** | 99.4% |
 | **F1-Score** | 99.4% |
 
-### Confusion Matrix
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="500" title="Confusion Matrix">
-</p>
+## 📈 Results
+The model achieves exceptional performance, making it suitable for real-world screening applications.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Evaluation Metrics</h3>
+      <table width="100%">
+        <tr>
+          <th>Metric</th>
+          <th>Score</th>
+        </tr>
+        <tr>
+          <td><b>Accuracy</b></td>
+          <td><b>99.5%</b></td>
+        </tr>
+        <tr>
+          <td>Precision</td>
+          <td>99.3%</td>
+        </tr>
+        <tr>
+          <td>Recall</td>
+          <td>99.4%</td>
+        </tr>
+        <tr>
+          <td>F1-Score</td>
+          <td>99.4%</td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Confusion Matrix</h3>
+      <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="100%" alt="Confusion Matrix">
+    </td>
+  </tr>
+</table>
