@@ -34,12 +34,12 @@ The model achieves exceptional performance, making it suitable for real-world sc
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Evaluation Metrics</h3>
-      <table width="100%">
+    <td width="50%" valign="middle" style="border: none;">
+      <h3 align="center">Evaluation Metrics</h3>
+      <table width="100%" style="border: none;">
         <tr>
-          <th>Metric</th>
-          <th>Score</th>
+          <th style="text-align: left;">Metric</th>
+          <th style="text-align: left;">Score</th>
         </tr>
         <tr>
           <td><b>Accuracy</b></td>
@@ -59,7 +59,7 @@ The model achieves exceptional performance, making it suitable for real-world sc
         </tr>
       </table>
     </td>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" valign="middle" align="center" style="border: none;">
       <h3>Confusion Matrix</h3>
       <img src="https://github.com/user-attachments/assets/90f46939-ac3a-46b5-b695-9d0749d33009" width="100%" alt="Confusion Matrix">
     </td>
