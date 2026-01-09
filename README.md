@@ -46,7 +46,7 @@ The model was trained on the **[AI vs Human Generated Dataset](https://www.kaggl
 ## How to Run
 1.  **Clone the repository**
    ```bash
-   git clone [https://github.com/Quixowo/AI-Human-Images-Classifier.git](https://github.com/Quixowo/AI-Human-Images-Classifier.git)
+   git clone https://github.com/Quixowo/AI-Human-Images-Classifier.git
    cd AI-Human-Images-Classifier
    ```
 2.  **Install dependencies:**
